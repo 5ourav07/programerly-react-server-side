@@ -1,38 +1,32 @@
 [
     {
         "id": "1",
-        "image": "https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png",
         "name": "C",
-        "details": "Programming language C"
+        "duration": "20 Hours"
     },
     {
         "id": "2",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01LtUESYI0YsYu6FUt94u5BYNgAXINfR3Eg&usqp=CAU",
         "name": "C++",
-        "details": "Programming language C++"
+        "duration": "30 Hours"
     },
     {
         "id": "3",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mhLw6EgPC8AmmUzD4W1-AmjJ5BrQtz7rXw&usqp=CAU",
         "name": "C#",
-        "details": "Programming language C#"
+        "duration": "40 Hours"
     },
     {
         "id": "4",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukIPBnSy4nclMh4d4MPnkuXTT2x9G9-mENg&usqp=CAU",
         "name": "Java",
-        "details": "Programming language Java"
+        "duration": "50 Hours"
     },
     {
         "id": "5",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27EgitgLIU1d4MBqO88eQIYbPuEOdf5X23w&usqp=CAU",
         "name": "Javascript",
-        "details": "Programming language Javascript"
+        "duration": "60 Hours"
     },
     {
         "id": "6",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPQV7iQlII3qDyFmEtCeYBo4L1JItY3UZjw&usqp=CAU",
         "name": "Python",
-        "details": "Programming language Python"
+        "duration": "70 Hours"
     }
 ]
