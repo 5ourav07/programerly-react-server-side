@@ -22,15 +22,15 @@ app.get('/categories/:id', (req, res) => {
     res.send(categoriesID);
 })
 
-app.get('/courses', (req, res) => {
-    res.send(courses);
-});
+// app.get('/courses', (req, res) => {
+//     res.send(courses);
+// });
 
-app.get('/courses/:id', (req, res) => {
-    const id = req.params.id;
-    const coursesID = courses.find(c => c._id === id);
-    res.send(coursesID);
-})
+// app.get('/courses/:id', (req, res) => {
+//     const id = req.params.id;
+//     const coursesID = courses.find(c => c._id === id);
+//     res.send(coursesID);
+// })
 
 app.listen(port, () => {
     console.log('API Running on Port', port);

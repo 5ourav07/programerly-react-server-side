@@ -1,32 +1,44 @@
 [
     {
         "id": "1",
+        "image": "https://i.postimg.cc/FHpLT5KW/c.png",
         "name": "C",
-        "duration": "20 Hours"
+        "total_enrolled": 188,
+        "duration": "80 Hours"
     },
     {
         "id": "2",
+        "image": "https://i.postimg.cc/J4wZn5gq/c.png",
         "name": "C++",
-        "duration": "30 Hours"
-    },
-    {
-        "id": "3",
-        "name": "C#",
-        "duration": "40 Hours"
-    },
-    {
-        "id": "4",
-        "name": "Java",
-        "duration": "50 Hours"
-    },
-    {
-        "id": "5",
-        "name": "Javascript",
+        "total_enrolled": 288,
         "duration": "60 Hours"
     },
     {
+        "id": "3",
+        "image": "https://i.postimg.cc/nLLQ5RjH/c.png",
+        "name": "C#",
+        "total_enrolled": 388,
+        "duration": "50 Hours"
+    },
+    {
+        "id": "4",
+        "image": "https://i.postimg.cc/0yPSG29K/java.png",
+        "name": "Java",
+        "total_enrolled": 488,
+        "duration": "60 Hours"
+    },
+    {
+        "id": "5",
+        "image": "https://i.postimg.cc/4NzthhRT/javascript.png",
+        "name": "Javascript",
+        "total_enrolled": 588,
+        "duration": "40 Hours"
+    },
+    {
         "id": "6",
+        "image": "https://i.postimg.cc/jjkJrHPy/python.jpg",
         "name": "Python",
-        "duration": "70 Hours"
+        "total_enrolled": 688,
+        "duration": "30 Hours"
     }
 ]
