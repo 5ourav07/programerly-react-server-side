@@ -1,8 +1,9 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c104fbd15261f11c2ab6a",
         "category_id": "1",
         "title": "Module 1",
+        "cost": "$20",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -12,9 +13,10 @@
         "details": "C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2a123",
+        "_id": "0282e0e58a5c404fbd15261f11c2safa123",
         "category_id": "1",
         "title": "Module 2",
+        "cost": "$20",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -24,9 +26,10 @@
         "details": "It is said that C is a gods programming language. One can say, C is a base for the programming. If you know C, you can easily grasp the knowledge of the other programming languages that uses the concept of C. It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0easf58a5c402fbd15261f11c2ab6a",
         "category_id": "1",
         "title": "Module 3",
+        "cost": "$20",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -36,9 +39,10 @@
         "details": "The base or father of programming languages is ‘ALGOL.’ It was first introduced in 1960. ‘ALGOL’ was used on a large basis in European countries. ‘ALGOL’ introduced the concept of structured programming to the developer community. In 1967, a new computer programming language was announced called as which stands for Basic Combined Programming Language."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c403fbd15261f11c2rtab6a",
         "category_id": "1",
         "title": "Module 4",
+        "cost": "$20",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -48,9 +52,10 @@
         "details": "This was the era of programming languages. Just after three years, in 1970 a new programming language called ‘B’ was introduced by Ken Thompson that contained multiple features of ‘BCPL.’ This programming language was created using UNIX operating system at AT&T and Bell Laboratories. Both the ‘BCPL’ and ‘B’ were system programming languages."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c414fbd15261f11c2abddsbb6a",
         "category_id": "1",
         "title": "Module 5",
+        "cost": "$20",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -60,9 +65,10 @@
         "details": "‘C’ is a powerful programming language which is strongly associated with the UNIX operating system. Even most of the UNIX operating system is coded in ‘C’. Initially ‘C’ programming was limited to the UNIX operating system, but as it started spreading around the world, it became commercial, and many compilers were released for cross-platform systems."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c444fbd15261f11c2airtb6a",
         "category_id": "1",
         "title": "Module 6",
+        "cost": "$20",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -72,9 +78,10 @@
         "details": "Today ‘C’ runs under a variety of operating systems and hardware platforms. As it started evolving many different versions of the language were released. At times it became difficult for the developers to keep up with the latest version as the systems were running under the older versions. ‘C’ programming language is also called as ‘ANSI C’."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c464fbd15261f11c2ab6sdza",
         "category_id": "2",
         "title": "Module 1",
+        "cost": "$20",
         "author": {
             "name": "Alex",
             "published_date": "2022-08-24 17:27:34",
@@ -84,9 +91,10 @@
         "details": "C++ is a general-purpose, object-oriented programming language. It was created by Bjarne Stroustrup at Bell Labs circa 1980. C++ is very similar to C (invented by Dennis Ritchie in the early 1970s). C++ is so compatible with C that it will probably compile over 99% of C programs without changing a line of source code. Though C++ is a lot of well-structured and safer language than C as it OOPs based."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2a123",
+        "_id": "0282e0e58a5c404fbd15261f11c2a1ehea23",
         "category_id": "2",
         "title": "Module 2",
+        "cost": "$20",
         "author": {
             "name": "Alex",
             "published_date": "2022-08-24 17:27:34",
@@ -96,9 +104,10 @@
         "details": "Some computer languages are written for a specific purpose. Like, Java was initially devised to control toasters and some other electronics. C++ is very similar to C (invented by Dennis Ritchie in the early 1970s). C was developed for programming OS. Pascal was conceptualized to teach proper programming techniques. But C++ is a general-purpose language. It well deserves the widely acknowledged nickname “Swiss Pocket Knife of Languages."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c4a4fbd15261f11c2mergab6a",
         "category_id": "2",
         "title": "Module 3",
+        "cost": "$20",
         "author": {
             "name": "Alex",
             "published_date": "2022-08-24 17:27:34",
@@ -108,9 +117,10 @@
         "details": "The answer depends on perspective and requirements. Some tasks can be done in C++, though not very quickly. For example, designing GUI screens for applications. Other languages like Visual Basic, Python have GUI design elements built into them. Therefore, they are better suited for GUI type of task. Some of the scripting languages that provide extra programmability to applications."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c4s4fbd15261f11c2qczab6a",
         "category_id": "2",
         "title": "Module 4",
+        "cost": "$20",
         "author": {
             "name": "Alex",
             "published_date": "2022-08-24 17:27:34",
@@ -120,9 +130,10 @@
         "details": "When a program runs, the code is read by the compiler line by line (from top to bottom, and for the most part left to right). This is known as “code flow.“ When the code is being read from top to bottom, it may encounter a point where it needs to make a decision. Based on the decision, the program may jump to a different part of the code."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c4d4fbbhwd15261f11c2ab6a",
         "category_id": "2",
         "title": "Module 5",
+        "cost": "$20",
         "author": {
             "name": "Alex",
             "published_date": "2022-08-24 17:27:34",
@@ -132,9 +143,10 @@
         "details": "Let’s use a list of courses on “guru99” as the example! You probably have a list of courses in front of you. But how do you think they stored that. There can be a lot of courses, and different users may register for different courses. Do they generate a different variable for each user? For example, let’s say we need to keep track of 10 courses."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbf15261f1qef1c2ab6a",
         "category_id": "2",
         "title": "Module 6",
+        "cost": "$20",
         "author": {
             "name": "Alex",
             "published_date": "2022-08-24 17:27:34",
@@ -144,9 +156,10 @@
         "details": "The syntax is a layout of words, expression, and symbols. Well, it’s because an email address has its well-defined syntax. You need some combination of letters, numbers, potentially with underscores (_) or periods (.) in between, followed by an at the rate (@) symbol, followed by some website domain (company.com)."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd1q261f11cdsgd2ab6a",
         "category_id": "3",
         "title": "Module 1",
+        "cost": "$20",
         "author": {
             "name": "Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -156,9 +169,10 @@
         "details": "C# (C Sharp) is one of the most popular programming languages which is widely used for building Windows applications, mobile applications, and games. This course is taught in a practical GOAL oriented way to learn C# programming. It is recommended for you to practice the code assignments given after each C Sharp tutorial to learn C Sharp fast and easily."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2a123",
+        "_id": "0282e0e58a5c404fbd15261f11whwc2a123",
         "category_id": "3",
         "title": "Module 2",
+        "cost": "$20",
         "author": {
             "name": "Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -168,9 +182,10 @@
         "details": "Learning C# helps to understand the basic Computer theories easily, and it is a middle-level programming language; therefore, it is easy to understand and user-friendly. Moreover, C# contains fewer libraries, and it has a faster execution time; therefore, it is widely used in embedded programming. This course is taught in a practical GOAL oriented way to learn C# programming."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbdg5261f11c2ab6a",
         "category_id": "3",
         "title": "Module 3",
+        "cost": "$20",
         "author": {
             "name": "Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -180,9 +195,10 @@
         "details": "C Sharp programming is widely used for developing Desktop applications, Web applications, Web services, large scale Windows applications as well as developing Games. This course is taught in a practical GOAL oriented way to learn C# programming. C# contains fewer libraries, and it has a faster execution time; therefore, it is widely used in embedded programming."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd1526hf11c2ab6a",
         "category_id": "3",
         "title": "Module 4",
+        "cost": "$20",
         "author": {
             "name": "Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -192,9 +208,10 @@
         "details": "For learning C# for beginners, it is required to have a basic computer knowledge, basic knowledge of Object-Oriented programming approach, and basic knowledge of C programming language concepts to understand C# basics easily. Moreover, C# contains fewer libraries, and it has a faster execution time."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15h61f11c2ab6a",
         "category_id": "3",
         "title": "Module 5",
+        "cost": "$20",
         "author": {
             "name": "Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -204,9 +221,10 @@
         "details": "First in this C Sharp tutorial, you will learn the C# basics like introduction, history of C# and architecture. Then, you will learn the advanced stuff for C# programming like C# data types, variables, classes & objects, interface, collections, file operations, etc."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd152q1f11c2ab6a",
         "category_id": "3",
         "title": "Module 6",
+        "cost": "$20",
         "author": {
             "name": "Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -216,9 +234,10 @@
         "details": "C# (C Sharp) is a general purpose, multi-paradigm programming language developed by Microsoft that runs on the .NET Framework. C# is widely used for building mobile applications, games and windows applications. C# contains fewer libraries, and it has a faster execution time."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd152h1f11c2ab6a",
         "category_id": "4",
         "title": "Module 1",
+        "cost": "$20",
         "author": {
             "name": "Jimmy",
             "published_date": "2022-08-24 17:27:34",
@@ -228,9 +247,10 @@
         "details": "This Java tutorial for beginners is taught in a practical GOAL-oriented way. In this Java tutorial for beginners, you will learn Java programming basics like What is Java platform. These Java notes for beginners will help beginners to learn Java online for free. It is recommended you practice the code assignments given after each core Java tutorial to learn Java from scratch. This Java programming for beginners course will help you learn basics of Java and advanced concepts."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2a123",
+        "_id": "0282e0e58a5c404fbd15261f11csa123",
         "category_id": "4",
         "title": "Module 2",
+        "cost": "$20",
         "author": {
             "name": "Jimmy",
             "published_date": "2022-08-24 17:27:34",
@@ -240,9 +260,10 @@
         "details": "Java is a class-based object-oriented programming language for building web and desktop applications. These Java notes for beginners will help beginners to learn Java online for free. In this Java tutorial for beginners, you will learn Java programming basics like What is Java platform. It is the most popular programming language and the language of choice for Android programming. In this Java tutorial for beginners, you will learn Java programming basics like What is Java platform."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd1a261f11c2ab6a",
         "category_id": "4",
         "title": "Module 3",
+        "cost": "$20",
         "author": {
             "name": "Jimmy",
             "published_date": "2022-08-24 17:27:34",
@@ -252,9 +273,10 @@
         "details": "In this Java tutorial for beginners, you will learn Java programming basics like What is Java platform, JVM, how to install Java, OOPS concepts, variables, class, object, arrays, strings, command-line arguments, garbage collection, inheritance, polymorphism, interface, constructor, packages, etc. You will also learn advanced concepts like switch-case, functions, multithreading, swing, files, API, Java Spring, etc., in this Java basics for beginners guide."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f1sadc2ab6a",
         "category_id": "4",
         "title": "Module 4",
+        "cost": "$20",
         "author": {
             "name": "Jimmy",
             "published_date": "2022-08-24 17:27:34",
@@ -264,9 +286,10 @@
         "details": "This free Java for beginners tutorial is designed for beginners with little or no Java coding experience. These Java notes for beginners will help beginners to learn Java online for free. You will also learn advanced concepts like switch-case, functions, multithreading, swing, files, API, Java Spring, etc., in this Java basics for beginners guide. It is recommended you practice the code assignments given after each core Java tutorial to learn Java from scratch."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261asf11c2ab6a",
         "category_id": "4",
         "title": "Module 5",
+        "cost": "$20",
         "author": {
             "name": "Jimmy",
             "published_date": "2022-08-24 17:27:34",
@@ -276,9 +299,10 @@
         "details": "You will also learn advanced concepts like switch-case, functions, multithreading, swing, files, API, Java Spring, etc., in this Java basics for beginners guide. It is recommended you practice the code assignments given after each core Java tutorial to learn Java from scratch. You can get real-time exposure to Java by coding in live projects. You can join our Live Java Project to get your hands dirty in Java."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11cwe2ab6a",
         "category_id": "4",
         "title": "Module 6",
+        "cost": "$20",
         "author": {
             "name": "Jimmy",
             "published_date": "2022-08-24 17:27:34",
@@ -288,9 +312,10 @@
         "details": "Java is a programming language and a computing platform for application development. It is recommended you practice the code assignments given after each core Java tutorial to learn Java from scratch. It was first released by Sun Microsystem in 1995 and later acquired by Oracle Corporation. It is one of the most used programming languages. You will also learn advanced concepts like switch-case, functions, swing, files, API, Java Spring, etc."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11gdsgc2ab6a",
         "category_id": "5",
         "title": "Module 1",
+        "cost": "$20",
         "author": {
             "name": "Jim",
             "published_date": "2022-08-24 17:27:34",
@@ -300,9 +325,10 @@
         "details": "JavaScript is an open-source and most popular client-side scripting language supported by all browsers. JavaScript is mainly used for enhancing the interaction of the webpage with users by making it more lively and interactive. It is also used for game development and mobile application development."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2a123",
+        "_id": "0282e0e58a5c404fbd15261f1trj1c2a123",
         "category_id": "5",
         "title": "Module 2",
+        "cost": "$20",
         "author": {
             "name": "Jim",
             "published_date": "2022-08-24 17:27:34",
@@ -312,9 +338,10 @@
         "details": "In this JavaScript basics for beginners tutorial, you will learn about some fundamentals of JavaScript like Variables, Arrays, Loops, Conditional Statements, Cookies, etc., and some advanced JavaScript concepts like DOM, practical code examples, JavaScript Unit testing frameworks, algorithms, etc."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11uyrec2ab6a",
         "category_id": "5",
         "title": "Module 3",
+        "cost": "$20",
         "author": {
             "name": "Jim",
             "published_date": "2022-08-24 17:27:34",
@@ -324,9 +351,10 @@
         "details": "Nothing! This is an absolute JavaScript beginner guide to learn JavaScript with examples. However, if you have some basic knowledge of HTML and CSS, it will help you learn faster and more efficiently. It is recommended you practice the code assignments given after each core Java tutorial to learn Java."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261fuy11c2ab6a",
         "category_id": "5",
         "title": "Module 4",
+        "cost": "$20",
         "author": {
             "name": "Jim",
             "published_date": "2022-08-24 17:27:34",
@@ -336,9 +364,10 @@
         "details": "This JavaScript for beginners tutorial is for students who want to learn about Web application development and software development. It is recommended you practice the code assignments given after each core Java tutorial to learn Java from scratch. This tutorial is also helpful for the professionals working in web application development to enhance their knowledge."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11cc2ab6a",
         "category_id": "5",
         "title": "Module 5",
+        "cost": "$20",
         "author": {
             "name": "Jim",
             "published_date": "2022-08-24 17:27:34",
@@ -348,9 +377,10 @@
         "details": "JavaScript is the most popular client-side programming language which is widely used for web application development in every industry. There is a huge demand in the IT industry for candidates having knowledge of JavaScript. Therefore, learning JavaScript is beneficial for you to get a good job and also enhance your skills and knowledge as well."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ytab6a",
         "category_id": "5",
         "title": "Module 6",
+        "cost": "$20",
         "author": {
             "name": "Jim",
             "published_date": "2022-08-24 17:27:34",
@@ -360,9 +390,10 @@
         "details": "JavaScript’s functionality depends on the environment it’s running in. For example, Node.js supports functions which allows JavaScript to read and write arbitrary files, perform network requests, object-oriented, etc. The roles that JavaScript plays in both client-side (front end) and server-side (back end) development of applications can vary wildly."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ktyab6a",
         "category_id": "6",
         "title": "Module 1",
+        "cost": "$20",
         "author": {
             "name": "Rob",
             "published_date": "2022-08-24 17:27:34",
@@ -372,9 +403,10 @@
         "details": "In this Python tutorial for beginners, you will learn Python programming basics and advanced concepts. This Python course contains all the Python basics from installation to advanced stuff like Python data science. This Python programming tutorial helps you to learn Python free with Python notes and Python. These Python tutorials will help you learn the basics of Python."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2a123",
+        "_id": "0282e0e58a5c404fbd15261f11c2qwra123",
         "category_id": "6",
         "title": "Module 2",
+        "cost": "$20",
         "author": {
             "name": "Rob",
             "published_date": "2022-08-24 17:27:34",
@@ -384,9 +416,10 @@
         "details": "Python is an object-oriented programming language created by Guido Rossum in 1989. It is ideally designed for rapid prototyping of complex applications. It has interfaces to many OS system calls and libraries and is extensible to C or C++. Many large companies use the Python programming language, including NASA, Google, YouTube, BitTorrent, etc."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ajtb6a",
         "category_id": "6",
         "title": "Module 3",
+        "cost": "$20",
         "author": {
             "name": "Rob",
             "published_date": "2022-08-24 17:27:34",
@@ -396,9 +429,10 @@
         "details": "Python programming is widely used in Artificial Intelligence, Natural Language Generation, Neural Networks, and other advanced fields of Computer Science. Moreover, Python is one of the most demanded programming languages in the market, so there are huge job opportunities for candidates having knowledge of Python programming."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2sdgab6a",
         "category_id": "6",
         "title": "Module 4",
+        "cost": "$20",
         "author": {
             "name": "Rob",
             "published_date": "2022-08-24 17:27:34",
@@ -408,9 +442,10 @@
         "details": "In this Python for beginners tutorial, you will learn Python installation, variables, Data structure, loops, strings, functions, file handling, Python SciPy, Python JSON, Python with MySQL, matrix, Python List, Python Regex, PyTest, PyQt, multithreading, Python interview questions, and many more interesting Python concepts. This Python programming tutorial helps you to learn Python."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd152dsh61f11c2ab6a",
         "category_id": "6",
         "title": "Module 5",
+        "cost": "$20",
         "author": {
             "name": "Rob",
             "published_date": "2022-08-24 17:27:34",
@@ -420,9 +455,10 @@
         "details": "This Python programming tutorial helps you to learn Python free with Python notes and Python. This Python tutorial is designed for absolute beginners for learning Python online. However, if you have basic knowledge of any programming language concepts like loops, functions, etc., it will help you learn Python online easily."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2atrb6a",
         "category_id": "6",
         "title": "Module 6",
+        "cost": "$20",
         "author": {
             "name": "Rob",
             "published_date": "2022-08-24 17:27:34",
