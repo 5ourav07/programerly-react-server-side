@@ -1,42 +1,42 @@
 [
     {
         "id": "1",
-        "image": "https://i.postimg.cc/FHpLT5KW/c.png",
+        "image": "https://i.ibb.co/BZpjPrQ/c.jpg",
         "name": "C",
         "total_enrolled": 188,
         "duration": "80 Hours"
     },
     {
         "id": "2",
-        "image": "https://i.postimg.cc/J4wZn5gq/c.png",
+        "image": "https://i.ibb.co/fF2NCzj/c.webp",
         "name": "C++",
         "total_enrolled": 288,
         "duration": "60 Hours"
     },
     {
         "id": "3",
-        "image": "https://i.postimg.cc/nLLQ5RjH/c.png",
+        "image": "https://i.ibb.co/TqxDdZK/c.jpg",
         "name": "C#",
         "total_enrolled": 388,
         "duration": "50 Hours"
     },
     {
         "id": "4",
-        "image": "https://i.postimg.cc/0yPSG29K/java.png",
+        "image": "https://i.ibb.co/KqqtwD0/java.webp",
         "name": "Java",
         "total_enrolled": 488,
         "duration": "60 Hours"
     },
     {
         "id": "5",
-        "image": "https://i.postimg.cc/4NzthhRT/javascript.png",
+        "image": "https://i.ibb.co/2gFG7YS/javascript.jpg",
         "name": "Javascript",
         "total_enrolled": 588,
         "duration": "40 Hours"
     },
     {
         "id": "6",
-        "image": "https://i.postimg.cc/jjkJrHPy/python.jpg",
+        "image": "https://i.ibb.co/hsvPPLR/python.png",
         "name": "Python",
         "total_enrolled": 688,
         "duration": "30 Hours"
